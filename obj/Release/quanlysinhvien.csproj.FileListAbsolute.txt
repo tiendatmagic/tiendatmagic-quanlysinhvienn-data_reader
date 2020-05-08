@@ -1,0 +1,15 @@
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\bin\Release\quanlysinhvien.exe.config
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\bin\Release\quanlysinhvien.exe
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\bin\Release\quanlysinhvien.pdb
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.csprojAssemblyReference.cache
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\MainWindow.g.cs
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\App.g.cs
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien_MarkupCompile.cache
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien_MarkupCompile.lref
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\MainWindow.baml
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.g.resources
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.Properties.Resources.resources
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.csproj.GenerateResource.cache
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.exe
+C:\Users\tiend\OneDrive\ado\quanlysinhvienn\quanlysinhvien\obj\Release\quanlysinhvien.pdb

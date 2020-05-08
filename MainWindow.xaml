@@ -1,0 +1,26 @@
+﻿<Window x:Class="quanlysinhvien.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:quanlysinhvien"
+        mc:Ignorable="d"
+        Title="Quản lý sinh viên - Data Reader" Height="450" Width="1020.8">
+    <Grid>
+        <Button x:Name="btnKetnoi" Content="Kết nối" HorizontalAlignment="Left" Margin="35,254,0,0" VerticalAlignment="Top" Width="109" Height="61" Click="btnKetnoi_Click"/>
+        <DataGrid x:Name="dulieu" HorizontalAlignment="Left" Height="161" Margin="10,56,0,0" VerticalAlignment="Top" Width="536"/>
+        <Button x:Name="btnDulieu" Content="Xem dữ liệu" HorizontalAlignment="Left" Margin="201,254,0,0" VerticalAlignment="Top" Width="90" Height="61" Click="btnDulieu_Click"/>
+        <Button x:Name="btnThem" Content="Thêm dữ liệu" HorizontalAlignment="Left" Margin="337,254,0,0" VerticalAlignment="Top" Width="104" Height="61" Click="btnThem_Click"/>
+        <Button x:Name="btnXoa" Content="Xóa" HorizontalAlignment="Left" Margin="491,254,0,0" VerticalAlignment="Top" Width="87" Height="61" Click="btnXoa_Click"/>
+        <TextBox x:Name="txtMaSV" HorizontalAlignment="Left" Height="23" Margin="866,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtTenSV" HorizontalAlignment="Left" Height="23" Margin="866,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="866,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtMaKH" HorizontalAlignment="Left" Height="23" Margin="866,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnCapnhat" Content="Cập nhât" HorizontalAlignment="Left" Margin="616,254,0,0" VerticalAlignment="Top" Width="84" Height="61" Click="btnCapnhat_Click"/>
+        <Label Content="Mã SV" HorizontalAlignment="Left" Margin="753,52,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tên SV" HorizontalAlignment="Left" Margin="753,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="753,145,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.51,0.609"/>
+        <Label Content="Mã KH" HorizontalAlignment="Left" Margin="753,190,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
